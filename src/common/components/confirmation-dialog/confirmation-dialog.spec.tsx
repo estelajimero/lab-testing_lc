@@ -97,7 +97,7 @@ describe('Confirmation dialog component specs', () => {
     expect(props.onClose).toHaveBeenCalled();
   });
 
-  it('should call onAccept when closeButton is clicked', () => {
+  it('should call onAccept when acceptButton is clicked', () => {
     // Arrange
     const props = {
       isOpen: true,

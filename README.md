@@ -20,11 +20,6 @@ Partiendo del ejemplo 05-testing/01-react/05-real-project/00-boilerplate del rep
 
     - Añadir tests al hook ./src/common/components/confirmation-dialog/confirmation-dialog.hook.ts.
 
-IMPORTANTE:
-
-    Si es necesario, podéis instalar las librerias que necesitéis.
-    Si es necesario, se puede modificar el código original de la implementación, para poder cumplir con las pruebas de testing.
-
 ## Opcional
 
     - Crear nueva rama llamada feature/laboratorio-testing-opcional partiendo de la rama anterior feature/laboratorio-testing-obligatorio.

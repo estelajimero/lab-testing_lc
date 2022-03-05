@@ -45,7 +45,7 @@ export const EmployeeListComponent: React.FunctionComponent<Props> = ({
       labels={{
         searchPlaceholder: 'Buscar empleado',
         createButton: 'Nuevo empleado',
-        deleteTitle: 'Eliminar Empleado',
+        deleteTitle: 'Borrar Empleado',
         deleteContent: props => contentRender(props),
         closeButton: 'Cancelar',
         acceptButton: 'Aceptar',
